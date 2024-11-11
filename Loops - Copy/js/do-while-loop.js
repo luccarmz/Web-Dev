@@ -1,0 +1,1 @@
+var msg = '';    // Message/* Write your do-while loop below */document.getElementById('blackboard').innerHTML = msg;
